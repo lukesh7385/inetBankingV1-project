@@ -1,0 +1,238 @@
+2023-01-31T19:23:23,120 [main] INFO inetBankingV1 - URL is opened
+2023-01-31T19:23:24,062 [main] INFO inetBankingV1 - Entered username
+2023-01-31T19:23:24,401 [main] INFO inetBankingV1 - Entered password
+2023-01-31T19:23:27,549 [main] INFO inetBankingV1 - Login test passed
+2023-01-31T19:29:39,089 [main] INFO inetBankingV1 - URL is opened
+2023-01-31T19:29:39,718 [main] INFO inetBankingV1 - Entered username
+2023-01-31T19:29:39,908 [main] INFO inetBankingV1 - Entered password
+2023-01-31T19:29:45,150 [main] INFO inetBankingV1 - Login test passed
+2023-01-31T19:48:10,626 [main] INFO inetBankingV1 - URL is opened
+2023-01-31T19:48:11,836 [main] INFO inetBankingV1 - Entered username
+2023-01-31T19:48:12,300 [main] INFO inetBankingV1 - Entered password
+2023-01-31T19:48:21,626 [main] INFO inetBankingV1 - Login test passed
+2023-02-01T14:49:10,213 [main] INFO inetBankingV1 - URL is opened
+2023-02-01T14:49:16,668 [main] INFO inetBankingV1 - Entered username
+2023-02-01T14:49:17,350 [main] INFO inetBankingV1 - Entered password
+2023-02-01T14:49:24,060 [main] INFO inetBankingV1 - Login test passed
+2023-02-01T15:03:13,443 [main] INFO inetBankingV1 - URL is opened
+2023-02-01T15:03:13,995 [main] INFO inetBankingV1 - Entered username
+2023-02-01T15:03:14,234 [main] INFO inetBankingV1 - Entered password
+2023-02-01T15:09:25,327 [main] INFO inetBankingV1 - URL is opened
+2023-02-01T15:09:26,430 [main] INFO inetBankingV1 - Entered username
+2023-02-01T15:09:26,843 [main] INFO inetBankingV1 - Entered password
+2023-02-01T15:11:45,585 [main] INFO inetBankingV1 - URL is opened
+2023-02-01T15:11:46,030 [main] INFO inetBankingV1 - Entered username
+2023-02-01T15:11:46,685 [main] INFO inetBankingV1 - Entered password
+2023-02-01T15:11:56,127 [main] INFO inetBankingV1 - Login test passed
+2023-02-02T16:43:05,012 [main] INFO inetBankingV1 - URL is opened
+2023-02-02T16:43:10,065 [main] INFO inetBankingV1 - Entered username
+2023-02-02T16:43:11,086 [main] INFO inetBankingV1 - Entered password
+2023-02-02T16:43:17,968 [main] INFO inetBankingV1 - Login test passed
+2023-02-02T17:39:40,387 [main] INFO inetBankingV1 - URL is opened
+2023-02-02T17:39:42,696 [main] INFO inetBankingV1 - Entered username
+2023-02-02T17:39:44,402 [main] INFO inetBankingV1 - Entered password
+2023-02-02T17:42:42,125 [main] INFO inetBankingV1 - URL is opened
+2023-02-02T17:42:42,740 [main] INFO inetBankingV1 - Entered username
+2023-02-02T17:42:43,029 [main] INFO inetBankingV1 - Entered password
+2023-02-02T18:00:25,464 [main] INFO inetBankingV1 - URL is opened
+2023-02-02T18:00:26,733 [main] INFO inetBankingV1 - Entered username
+2023-02-02T18:00:27,734 [main] INFO inetBankingV1 - Entered password
+2023-02-02T18:10:24,686 [main] INFO inetBankingV1 - URL is opened
+2023-02-02T18:10:25,504 [main] INFO inetBankingV1 - Entered username
+2023-02-02T18:10:25,788 [main] INFO inetBankingV1 - Entered password
+2023-02-02T18:10:30,882 [main] INFO inetBankingV1 - Login test passed
+2023-02-02T18:16:34,588 [main] INFO inetBankingV1 - URL is opened
+2023-02-02T18:16:36,093 [main] INFO inetBankingV1 - Entered username
+2023-02-02T18:16:38,565 [main] INFO inetBankingV1 - Entered password
+2023-02-02T18:16:42,284 [main] INFO inetBankingV1 - Login test passed
+2023-02-02T20:30:17,531 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:30:17,804 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:30:29,643 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:30:29,823 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:30:38,462 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:30:38,678 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:30:51,283 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:30:51,487 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:31:02,484 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:31:02,659 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:42:26,473 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:42:26,646 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:42:40,334 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:42:40,502 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:42:54,133 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:42:54,354 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:43:07,391 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:43:07,612 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:43:18,192 [main] INFO inetBankingV1 - user name is provided
+2023-02-02T20:43:18,365 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:47:46,377 [main] INFO inetBankingV1 - username is provided
+2023-02-02T20:47:46,608 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:50:01,817 [main] INFO inetBankingV1 - Login Passed
+2023-02-02T20:52:43,981 [main] INFO inetBankingV1 - username is provided
+2023-02-02T20:52:44,203 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:52:52,216 [main] INFO inetBankingV1 - Login Passed
+2023-02-02T20:53:03,262 [main] INFO inetBankingV1 - username is provided
+2023-02-02T20:53:03,446 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:53:17,736 [main] INFO inetBankingV1 - username is provided
+2023-02-02T20:53:18,012 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:53:30,477 [main] INFO inetBankingV1 - username is provided
+2023-02-02T20:53:30,777 [main] INFO inetBankingV1 - password is provided
+2023-02-02T20:53:41,765 [main] INFO inetBankingV1 - Login Passed
+2023-02-02T20:53:54,874 [main] INFO inetBankingV1 - username is provided
+2023-02-02T20:53:55,194 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:23:38,977 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:23:39,373 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:23:51,148 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-03T06:26:42,676 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:26:43,461 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:26:52,939 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-03T06:34:28,107 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:34:28,362 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:34:37,663 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-03T06:35:08,910 [main] INFO inetBankingV1 - validation started....
+2023-02-03T06:35:09,474 [main] INFO inetBankingV1 - Test case Passed....
+2023-02-03T06:38:25,417 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:38:25,740 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:38:31,331 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-03T06:38:55,073 [main] INFO inetBankingV1 - validation started....
+2023-02-03T06:38:55,477 [main] INFO inetBankingV1 - Test case Passed....
+2023-02-03T06:45:20,689 [main] INFO inetBankingV1 - URL is opened
+2023-02-03T06:45:22,918 [main] INFO inetBankingV1 - Entered username
+2023-02-03T06:45:24,999 [main] INFO inetBankingV1 - Entered password
+2023-02-03T06:45:28,700 [main] INFO inetBankingV1 - Login test passed
+2023-02-03T06:45:48,852 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:45:49,111 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:45:57,979 [main] INFO inetBankingV1 - Login Passed
+2023-02-03T06:46:09,974 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:46:10,360 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:46:20,800 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:46:21,099 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:46:31,427 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:46:31,856 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:46:39,697 [main] INFO inetBankingV1 - Login Passed
+2023-02-03T06:46:49,826 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:46:50,104 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:47:16,520 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:47:17,352 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:47:25,810 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-03T06:47:47,544 [main] INFO inetBankingV1 - validation started....
+2023-02-03T06:47:47,612 [main] INFO inetBankingV1 - Test case Passed....
+2023-02-03T06:51:20,373 [main] INFO inetBankingV1 - URL is opened
+2023-02-03T06:51:21,196 [main] INFO inetBankingV1 - Entered username
+2023-02-03T06:51:21,835 [main] INFO inetBankingV1 - Entered password
+2023-02-03T06:51:43,383 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:51:43,576 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:51:52,447 [main] INFO inetBankingV1 - Login Passed
+2023-02-03T06:52:05,058 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:52:05,260 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:52:15,066 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:52:15,296 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:52:25,302 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:52:25,518 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:52:50,701 [main] INFO inetBankingV1 - Login Passed
+2023-02-03T06:53:40,201 [main] INFO inetBankingV1 - username is provided
+2023-02-03T06:53:40,446 [main] INFO inetBankingV1 - password is provided
+2023-02-03T06:53:49,652 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-03T06:54:09,607 [main] INFO inetBankingV1 - validation started....
+2023-02-03T06:54:09,646 [main] INFO inetBankingV1 - Test case Passed....
+2023-02-03T07:15:44,163 [main] INFO inetBankingV1 - username is provided
+2023-02-03T07:15:44,357 [main] INFO inetBankingV1 - password is provided
+2023-02-03T07:15:56,475 [main] INFO inetBankingV1 - username is provided
+2023-02-03T07:15:57,883 [main] INFO inetBankingV1 - password is provided
+2023-02-03T07:16:08,938 [main] INFO inetBankingV1 - username is provided
+2023-02-03T07:16:09,643 [main] INFO inetBankingV1 - password is provided
+2023-02-03T07:16:18,125 [main] INFO inetBankingV1 - Login Passed
+2023-02-03T07:16:29,422 [main] INFO inetBankingV1 - username is provided
+2023-02-03T07:16:29,997 [main] INFO inetBankingV1 - password is provided
+2023-02-03T07:16:55,850 [main] INFO inetBankingV1 - URL is opened
+2023-02-03T07:16:56,510 [main] INFO inetBankingV1 - Entered username
+2023-02-03T07:16:57,111 [main] INFO inetBankingV1 - Entered password
+2023-02-03T07:17:04,417 [main] INFO inetBankingV1 - Login test passed
+2023-02-03T17:21:56,775 [main] INFO inetBankingV1 - URL is opened
+2023-02-03T17:21:58,232 [main] INFO inetBankingV1 - Entered username
+2023-02-03T17:21:58,548 [main] INFO inetBankingV1 - Entered password
+2023-02-03T17:22:20,633 [main] INFO inetBankingV1 - username is provided
+2023-02-03T17:22:21,070 [main] INFO inetBankingV1 - password is provided
+2023-02-03T17:22:29,748 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-03T17:22:50,324 [main] INFO inetBankingV1 - validation started....
+2023-02-03T17:22:50,572 [main] INFO inetBankingV1 - Test case Passed....
+2023-02-04T15:26:44,001 [main] INFO inetBankingV1 - URL is opened
+2023-02-04T15:26:47,956 [main] INFO inetBankingV1 - Entered username
+2023-02-04T15:26:48,148 [main] INFO inetBankingV1 - Entered password
+2023-02-04T15:26:55,922 [main] INFO inetBankingV1 - Login test passed
+2023-02-04T15:27:14,188 [main] INFO inetBankingV1 - username is provided
+2023-02-04T15:27:14,376 [main] INFO inetBankingV1 - password is provided
+2023-02-04T15:27:24,204 [main] INFO inetBankingV1 - Login Passed
+2023-02-04T15:27:38,041 [main] INFO inetBankingV1 - username is provided
+2023-02-04T15:27:38,457 [main] INFO inetBankingV1 - password is provided
+2023-02-04T15:27:48,655 [main] INFO inetBankingV1 - username is provided
+2023-02-04T15:27:48,949 [main] INFO inetBankingV1 - password is provided
+2023-02-04T15:27:59,151 [main] INFO inetBankingV1 - username is provided
+2023-02-04T15:27:59,677 [main] INFO inetBankingV1 - password is provided
+2023-02-04T15:28:07,068 [main] INFO inetBankingV1 - Login Passed
+2023-02-04T15:28:16,750 [main] INFO inetBankingV1 - username is provided
+2023-02-04T15:28:16,983 [main] INFO inetBankingV1 - password is provided
+2023-02-04T15:28:37,652 [main] INFO inetBankingV1 - username is provided
+2023-02-04T15:28:40,114 [main] INFO inetBankingV1 - password is provided
+2023-02-04T15:28:46,893 [main] INFO inetBankingV1 - providing customer details.....
+2023-02-04 18:56:22,266 [main] INFO inetBanking - URL is opened
+2023-02-04 18:56:24,647 [main] INFO inetBanking - Entered username
+2023-02-04 18:56:25,093 [main] INFO inetBanking - Entered password
+2023-02-04 18:56:36,891 [main] INFO inetBanking - Login test passed
+2023-02-04 18:57:17,992 [main] INFO inetBanking - username is provided
+2023-02-04 18:57:19,316 [main] INFO inetBanking - password is provided
+2023-02-04 18:57:31,445 [main] INFO inetBanking - providing customer details.....
+2023-02-04 18:58:19,041 [main] INFO inetBanking - validation started....
+2023-02-04 18:58:19,455 [main] INFO inetBanking - Test case Passed....
+2023-02-05 00:14:54,191 [main] INFO inetBanking - URL is opened
+2023-02-05 00:14:54,857 [main] INFO inetBanking - Entered username
+2023-02-05 00:14:55,367 [main] INFO inetBanking - Entered password
+2023-02-05 00:15:03,225 [main] INFO inetBanking - Login test passed
+2023-02-05 00:15:17,639 [main] INFO inetBanking - username is provided
+2023-02-05 00:15:18,052 [main] INFO inetBanking - password is provided
+2023-02-05 00:15:26,876 [main] INFO inetBanking - providing customer details.....
+2023-02-05 00:15:52,216 [main] INFO inetBanking - validation started....
+2023-02-05 00:15:52,306 [main] INFO inetBanking - Test case Passed....
+2023-02-05 00:22:06,583 [main] INFO inetBanking - URL is opened
+2023-02-05 00:22:10,262 [main] INFO inetBanking - Entered username
+2023-02-05 00:22:10,472 [main] INFO inetBanking - Entered password
+2023-02-05 00:22:15,649 [main] INFO inetBanking - Login test passed
+2023-02-05 01:06:47,675 [main] INFO inetBanking - URL is opened
+2023-02-05 01:06:48,277 [main] INFO inetBanking - Entered username
+2023-02-05 01:06:48,746 [main] INFO inetBanking - Entered password
+2023-02-05 01:06:51,400 [main] INFO inetBanking - Login test passed
+2023-02-05 01:07:10,437 [main] INFO inetBanking - username is provided
+2023-02-05 01:07:10,617 [main] INFO inetBanking - password is provided
+2023-02-05 01:07:19,280 [main] INFO inetBanking - Login Passed
+2023-02-05 01:07:30,714 [main] INFO inetBanking - username is provided
+2023-02-05 01:07:31,851 [main] INFO inetBanking - password is provided
+2023-02-05 01:07:42,997 [main] INFO inetBanking - username is provided
+2023-02-05 01:07:44,734 [main] INFO inetBanking - password is provided
+2023-02-05 01:07:56,028 [main] INFO inetBanking - username is provided
+2023-02-05 01:07:56,209 [main] INFO inetBanking - password is provided
+2023-02-05 01:08:05,237 [main] INFO inetBanking - Login Passed
+2023-02-05 01:08:17,128 [main] INFO inetBanking - username is provided
+2023-02-05 01:08:17,301 [main] INFO inetBanking - password is provided
+2023-02-05 01:09:10,663 [main] INFO inetBanking - URL is opened
+2023-02-05 01:09:11,062 [main] INFO inetBanking - Entered username
+2023-02-05 01:09:11,204 [main] INFO inetBanking - Entered password
+2023-02-05 01:09:32,521 [main] INFO inetBanking - username is provided
+2023-02-05 01:09:32,652 [main] INFO inetBanking - password is provided
+2023-02-05 01:09:40,324 [main] INFO inetBanking - Login Passed
+2023-02-05 01:09:51,200 [main] INFO inetBanking - username is provided
+2023-02-05 01:09:51,447 [main] INFO inetBanking - password is provided
+2023-02-05 01:10:00,347 [main] INFO inetBanking - username is provided
+2023-02-05 01:10:01,159 [main] INFO inetBanking - password is provided
+2023-02-05 01:10:12,646 [main] INFO inetBanking - username is provided
+2023-02-05 01:10:12,847 [main] INFO inetBanking - password is provided
+2023-02-05 01:10:22,796 [main] INFO inetBanking - Login Passed
+2023-02-05 01:10:33,695 [main] INFO inetBanking - username is provided
+2023-02-05 01:10:34,293 [main] INFO inetBanking - password is provided
+2023-02-05 01:12:01,239 [main] INFO inetBanking - URL is opened
+2023-02-05 01:12:05,171 [main] INFO inetBanking - Entered username
+2023-02-05 01:12:05,365 [main] INFO inetBanking - Entered password
+2023-02-05 01:12:08,893 [main] INFO inetBanking - Login test passed
+2023-02-05 19:03:48,571 [main] INFO inetBanking - URL is opened
+2023-02-05 19:03:49,305 [main] INFO inetBanking - Entered username
+2023-02-05 19:03:50,079 [main] INFO inetBanking - Entered password
+2023-02-05 19:03:56,217 [main] INFO inetBanking - Login test passed
